@@ -1,0 +1,38 @@
+  
+  
+|3C         PRE-CUENTA
+10:29:17 PM 
+Mesero : DAYANA
+  
+Mesa : 41
+  
+Cuenta # : 1
+------------------------------
+DA..LOCKER 1010  1         .00
+LUNES POLLO SAL  1        5.49
+MARTES FILETE D  1        5.49
+MARTES PASTA BO  1        5.49
+MENU LUNCH       1        6.50
+LUNES CARNE GUI  1        5.49
+GINGER ALE LUNC  1        1.50
+------------------------------
+ 
+   * Sub-Total :         29.96
+   *ITBMS TOTAL:          2.10
+     Sub-Total :         32.06
+ 
+     SUMA      :      B/.32.06
+
+====== PROP. SUGERIDA ======
+( 10 % )             3.00
+============================
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
